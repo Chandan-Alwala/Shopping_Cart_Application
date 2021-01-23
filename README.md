@@ -1,7 +1,8 @@
 # Shopping_Cart_Application
 Sample shopping cart application where user can add, display shopping items to public
 
-## Commands used to perform some tasks are mentioned below
+* Commands used to perform some tasks are mentioned below
+* Install django >= 2.1 and Python >= 3.5
 
 ## Tech Stack: Python, Django, Sqlite, HTML, Bootstrap
 ### 1) python3 -m venv venv
